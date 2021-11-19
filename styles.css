@@ -2,3 +2,16 @@ h2 {
   color: #0000ff;
   font-family: sans-serif;
 }
+body {
+  color: #b40c06;
+  font-family: sans-serif;
+}
+h3 {
+  outline-color: #0691b4;
+}
+p {
+  color: antiquewhite;
+}
+ul {
+  color: yellowgreen;
+}
