@@ -10,8 +10,12 @@ h3 {
   outline-color: #0691b4;
 }
 p {
-  color: antiquewhite;
+  color: rgb(11, 138, 131);
 }
 ul {
   color: yellowgreen;
+}
+background {
+  color: #d9ff00;
+  font-family: sans-serif;
 }
