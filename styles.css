@@ -7,14 +7,14 @@ body {
   font-family: sans-serif;
 }
 h3 {
-  outline-color: #0691b4;
+  outline-color: #fbfbfc;
 }
 p {
-  color: rgb(11, 138, 131);
+  color: rgb(34, 11, 138);
 }
 ul {
-  color: yellowgreen;
+  color: rgb(9, 88, 6);
 }
-body{background-color: aqua;}
-  
-
+body {
+  background-color: aqua;
+}
